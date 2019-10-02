@@ -46,7 +46,7 @@ class LoginController extends Controller
 
             return response()->json([
 				'success' => false,
-				'message' => 'Unauthorised',
+				'message' => 'Unauthorized',
 				'error_code' => 401,
 				'data' => []
 			], 401); 

@@ -3,7 +3,6 @@
 ## Request header
 ```bash
 Accept : application/json
-Authorization : Bearer token
 ```
 
 ## Request param

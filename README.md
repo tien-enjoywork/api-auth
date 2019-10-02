@@ -14,7 +14,7 @@ composer require tien-enjoywork/api-auth
 ```
 
 ## Usage
-First of all, you have to already set up laravel with [passport](https://laravel.com/docs/5.8/passport) authentication.
+First of all, you have to already set up laravel with [passport](https://laravel.com/docs/6.x/passport#installation) authentication.
 
 ```bash
 php artisan enjoywork_auth_package:install
