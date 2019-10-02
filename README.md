@@ -1,9 +1,9 @@
 # API authentication with Laravel and Passport
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/tienpham/authentication.svg?style=flat-square)](https://packagist.org/packages/tienpham/authentication)
-[![Build Status](https://img.shields.io/travis/tienpham/authentication/master.svg?style=flat-square)](https://travis-ci.org/tienpham/authentication)
-[![Quality Score](https://img.shields.io/scrutinizer/g/tienpham/authentication.svg?style=flat-square)](https://scrutinizer-ci.com/g/tienpham/authentication)
-[![Total Downloads](https://img.shields.io/packagist/dt/tienpham/authentication.svg?style=flat-square)](https://packagist.org/packages/tienpham/authentication)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/tien-enjoywork/api-auth.svg?style=flat-square)](https://packagist.org/packages/tien-enjoywork/api-auth)
+[![Build Status](https://img.shields.io/travis/tien-enjoywork/api-auth/master.svg?style=flat-square)](https://travis-ci.org/tien-enjoywork/api-auth)
+[![Quality Score](https://img.shields.io/scrutinizer/g/tien-enjoywork/api-auth.svg?style=flat-square)](https://scrutinizer-ci.com/g/tien-enjoywork/api-auth)
+[![Total Downloads](https://img.shields.io/packagist/dt/tien-enjoywork/api-auth.svg?style=flat-square)](https://packagist.org/packages/tien-enjoywork/api-auth)
 
 ## Installation
 
