@@ -1,0 +1,22 @@
+{
+	"name": "tien-enjoywork/api-auth",
+	"description": "Api authentication Laravel + Passport",
+	"type": "package",
+	"require": {
+		"php": ">=7.1.3"
+	},
+	"license": "mit",
+	"authors": [
+		{
+			"name": "Tien Pham",
+			"email": "tiens8acc@enjoyworks.co.kr",
+			"homepage": "https://github.com/tien-enjoywork/api-auth"
+		}
+	],
+	"minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"TienEnjoywork\\APIAuth\\": "src/"
+		}
+	}
+}
