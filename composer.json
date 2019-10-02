@@ -18,5 +18,15 @@
 		"psr-4": {
 			"TienEnjoywork\\APIAuth\\": "src/"
 		}
+	},
+	"extra": {
+		"laravel": {
+			"providers": [
+				"TienEnjoywork\\APIAuth\\APIAuthServiceProvider"
+			],
+			"aliases": {
+				"APIAuth": "TienEnjoywork\\APIAuth\\APIAuthFacade"
+			}
+		}
 	}
 }
