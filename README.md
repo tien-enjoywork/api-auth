@@ -19,13 +19,13 @@ First of all, you have to already set up laravel with [passport](https://laravel
 ```bash
 php artisan enjoywork_auth_package:install
 ```
-Edit **app/enjoywork_auth.php** to change configuration you want.
+Edit **app/enjoywork_auth.php** to change configuration. Remember run `php artisan config:cache` after edit this file.
 
-### Document
+## Document
 
 Please see [DOCUMENT](DOCUMENT.md) for more information about request parameters and respone
 
-### Changelog
+## Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
 
@@ -33,7 +33,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-### Security
+## Security
 
 If you discover any security related issues, please email tiens8acc@enjoyworks.co.kr instead of using the issue tracker.
 
